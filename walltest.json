@@ -1,14 +1,4 @@
-{
-    "Categories":[
-            {
-                "name": "Mr.Ray Exclusives"
-            },
-	    {
-                "name": "Minimal"
-            }
-
-],
-   "Wallpapers": [
+[
 	{
       "author": "Mr.Ray",
       "url": "https://raw.githubusercontent.com/2010sroy/Walls/master/walls458.jpg",
@@ -2814,6 +2804,4 @@
       "thumbnail": "https://i.imgur.com/mQLXMfr.jpg",
       "name": "0"
 }
-	
 	]
-}
